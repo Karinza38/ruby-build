@@ -1,4 +1,4 @@
-# ruby-build
+ # ruby-build
 
 ruby-build provides a simple way to compile and install different
 versions of Ruby on UNIX-like systems.
